@@ -20,7 +20,7 @@ In order to work with multiple team members, the following is suggested when set
 │  ├──README.md  
 ├──omero-arc-exporter  
 │  ├──README.md
-├──poster
+├──posters
 │  ├──README.md
 ├──publications
 │  ├──README.md
