@@ -12,10 +12,10 @@ In order to work with multiple team members, the following is suggested when set
 **Repository Structure**  
 
 ```
-├──hackathons  
-│  ├──nfdi4bioimage-ta3-hackaton-uoc-2023  
-│  │  ├──README.md  
+├──hackathons
 │  ├──2nd-deNBI-biohackathon-omero-arc-project  
+│  │  ├──README.md   
+│  ├──nfdi4bioimage-ta3-hackaton-uoc-2023  
 │  │  ├──README.md  
 │  ├──README.md  
 ├──omero-arc-exporter  
