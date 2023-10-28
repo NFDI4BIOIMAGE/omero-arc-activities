@@ -23,7 +23,11 @@ In order to work with multiple team members, the following is suggested when set
 ├──tutorials  
 │  ├──arc  
 │  │  ├──README.md  
-│  ├──getting-started  
+│  ├──getting-started
+│  │  ├──arc
+│  │  │  ├──README.md  
+│  │  ├──omero
+│  │  │  ├──README.md  
 │  │  ├──README.md  
 │  ├──omero-arc  
 │  │  ├──README.md  
