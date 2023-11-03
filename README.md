@@ -1,4 +1,6 @@
 # omero-arc
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 This repository collects, links and describes omero-arc interoperability activities.
 
 ## Setting up this repository and repository structure overview
