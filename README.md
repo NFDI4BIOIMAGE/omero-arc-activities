@@ -43,3 +43,5 @@ In order to work with multiple team members, the following is suggested when set
 ├──LICENSE  
 └──README.md
 ```
+**Branch Protection**
+The main branch is protected. Collaborators need to push to a branch and merge into main.
