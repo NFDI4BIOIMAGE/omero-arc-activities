@@ -6,7 +6,6 @@ This repository collects, links and describes omero-arc interoperability activit
 ## Setting up this repository and repository structure overview
 
 As a start, the following repository structure is suggested.
-In case of setting the repository public, only public sharabel content can be added to the respective directories.
 In order to work with multiple team members, the following is suggested when setting up this repository:
 - Setting up a contributions guide including review and merge rules is suggested.
 - At least 2-3 administrators should be identified.
@@ -46,4 +45,4 @@ In order to work with multiple team members, the following is suggested when set
 └──README.md
 ```
 **Branch Protection**
-The main branch is protected. Collaborators need to push to a branch and merge into main.
+The main branch is protected. Collaborators need to push to a branch and merge into main with at least one approving review.
