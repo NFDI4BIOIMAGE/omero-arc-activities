@@ -1,8 +1,8 @@
 # NFDI4Bioimage - TA3-Hackathon - UoC-2023
 
-From November, 29th to December, 1st, the first NFDI4Bioimage TA3 hackathon took place at CECAD at the University of Cologne.
+From November, 29th to December, 1st (2023), the first NFDI4Bioimage TA3 hackathon took place at CECAD at the University of Cologne.
 
-A [GitHub repository](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023) has been provided for docuemntation during and of the hackathon.
+A [GitHub repository](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023) has been provided for documentation during and of the hackathon.
 
 When finalized, it is intended to publish this version at Zenodo.
 
