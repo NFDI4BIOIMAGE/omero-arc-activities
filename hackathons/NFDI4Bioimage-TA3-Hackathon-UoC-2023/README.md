@@ -1,12 +1,14 @@
 # NFDI4Bioimage - TA3-Hackathon - UoC-2023
 
+Citation for the respective [repository](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023):  
+
+[![DOI](https://zenodo.org/badge/718969228.svg)](https://zenodo.org/doi/10.5281/zenodo.10609770)
+
 From November, 29th to December, 1st (2023), the first NFDI4Bioimage TA3 hackathon took place at CECAD at the University of Cologne.
 
 A [GitHub repository](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023) has been provided for documentation during and of the hackathon.
 
-When finalized, it is intended to publish this version at Zenodo.
-
-As this hackathon was one of the first intensive on-site meetings for TA3 members and also bridging to the DataPLANT NFDI consortium, an emphazise was laid on introducions to different topics covered in TA3 (TA1 and TA5) of the NFDI4Bioimage.
+As this hackathon was one of the first intensive on-site meetings for TA3 members and also bridging to the DataPLANT NFDI consortium, an emphazise was laid on introductions to different topics covered in TA3 (TA1 and TA5) of the NFDI4Bioimage.
 
 # Topics covered with introductory talks:
 - OMERO and zarr
