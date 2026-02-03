@@ -10,4 +10,4 @@ Futher, due to changes in the dependent tools over the period and with the focus
 
 https://github.com/cmohl2013/omero-isa
 
-This repo aims to export ISA metadata from OMERO into the user's local folder. The metadata can than be added to an ARC folders.
+This repo aims to export ISA metadata from OMERO into the user's local folder. The metadata can then be added to an ARC folders.
