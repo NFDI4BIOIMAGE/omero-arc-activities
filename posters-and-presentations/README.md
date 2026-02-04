@@ -1,4 +1,4 @@
-The poster and presentations related to omero-arc can be found in zenodo NFDI4BIOIMAGE organization page at zenodo.org.
+The posters and presentations related to omero-arc can be found in zenodo NFDI4BIOIMAGE organization page at zenodo.org.
 
 NFDI4BIOIMAGE zenodo : https://zenodo.org/communities/nfdi4bioimage
 
