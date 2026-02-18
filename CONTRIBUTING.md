@@ -21,7 +21,7 @@ To maintain the quality and structure of this repository, please follow these st
    - `tutorials/`: Educational material and "getting started" guides.
    - `publications/` or `posters-and-presentations/`: Links and metadata for research outputs.
 3. **Include a README**: If you are adding a new sub-directory (e.g., a specific hackathon project), please include a `README.md` within that folder explaining its content.
-4. **Submit a Pull Request (PR)**: 
+4. **Submit a Pull Request (PR)**:
    - Open a PR against the `main` branch.
    - Provide a clear description of what you are adding or changing.
    - **Review Rule**: As per our branch protection rules, at least **one approving review** from a maintainer is required before merging.
